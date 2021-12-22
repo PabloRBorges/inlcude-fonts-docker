@@ -1,2 +1,2 @@
-# Script for inlucde fonts on containers docker
-Script of power shell for adding fonts on container docker with windows server
+# Adding fonts ond containers docker
+Script to register fonts inside a windows container in docker
